@@ -1,0 +1,4 @@
+# ignore ipython checkpoints
+**/.ipynb_checkpoints
+# ignore pycaches
+**/__pycache__
